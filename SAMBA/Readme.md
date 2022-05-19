@@ -41,7 +41,7 @@ guest ok = yes
 
 $ chmod 777 [le nom de dossier] 
 
-###Et Maintenant vous avez réussi à installer Samba 👍
+### Et Maintenant vous avez réussi à installer Samba 👍
 
 
 
