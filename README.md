@@ -1,5 +1,5 @@
 # INSTALLATION DES SERVEURS :
-HELLO ! Les liens d'installation des  serveurs sont disponibles ici:
+HELLO 👋! Les liens d'installation des  serveurs sont disponibles ici:
 
 $ [SAMBA](https://github.com/fetraandri/SYS_SERVEUR/blob/2bb3d935b64a15b7ef4a4567eb9f1346a3826a41/SAMBA/Readme.md) 
 
