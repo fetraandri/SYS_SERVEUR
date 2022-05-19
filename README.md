@@ -1,3 +1,4 @@
 # INSTALLATION DES SERVEURS :
-HELLO ! Les liens des serveurs sont disponibles ici:
+HELLO ! Les liens d'installation des  serveurs sont disponibles ici:
+
 
