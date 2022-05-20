@@ -43,4 +43,4 @@ Ou dans /etc/fstab :
 
 $ 192.168.21.200:/media/partage   /media/nfs   nfs      auto,_netdev,nofail,soft,retrans=2,timeo=5 0 0 
 
-#####Et voilà, votre serveur est maintenant installé 👍
+##### Et voilà, votre serveur est maintenant installé 👍
