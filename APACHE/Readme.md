@@ -42,3 +42,22 @@ ErrorLog ${APACHE_LOG_DIR}/error.log
 CustomLog ${APACHE_LOG_DIR}/access.log combined  
 
 </virtualhost>
+
+#### *Créez un répertoire pour le site Web, puis créez index.htmlun fichier pour le site Web. 
+
+$ mkdir /var/www/yourdomain.com 
+
+#### *Web, puis créez index.htmlun fichier pour le site Web.
+
+$ vi /var/www/yourdomain.com/index.html 
+
+#### *Redémarrez le service Apache pour que les modifications ci-dessus prennent effet.
+
+$ sudo systemctl restart apache2 
+
+#### *Ouvrez n'importe quel navigateur et entrez l'URL du site Web. 
+
+==> http://yourdomain.com 
+
+
+
