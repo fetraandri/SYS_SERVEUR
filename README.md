@@ -7,4 +7,4 @@ $ [APACHE](https://github.com/fetraandri/SYS_SERVEUR/blob/ec532abe3d8c0dee2a7901
 
 $ [NGINX](https://github.com/fetraandri/SYS_SERVEUR/blob/a44373a5093da02ac74cb9407916d5d9e6fdf196/NGINX/Readme.md) 
 
-$ [NFS](https://github.com/fetraandri/SYS_SERVEUR/blob/271612686260297591d006d6bddc6aaf9a4e3f8d/NFS/Readme.md) 
+$ [NFS](https://github.com/fetraandri/SYS_SERVEUR/blob/38febd21465cebef07210e1bbebf64cea0d02ef6/NFS/Readme.md) 
