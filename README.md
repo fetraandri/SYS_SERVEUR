@@ -5,6 +5,6 @@ $ [SAMBA](https://github.com/fetraandri/SYS_SERVEUR/blob/2bb3d935b64a15b7ef4a456
 
 $ [APACHE](https://github.com/fetraandri/SYS_SERVEUR/blob/ec532abe3d8c0dee2a7901545fd76fb6362d7438/APACHE/Readme.md) 
 
-$ [NGINX](https://github.com/fetraandri/SYS_SERVEUR/blob/a44373a5093da02ac74cb9407916d5d9e6fdf196/NGINX/Readme.md)
+$ [NGINX](https://github.com/fetraandri/SYS_SERVEUR/blob/4feb2f0bb2d9f47d422c64b44de93e64e4ada4a6/NGINX/Readme.md)
 
 $ [NFS](https://github.com/fetraandri/SYS_SERVEUR/blob/38febd21465cebef07210e1bbebf64cea0d02ef6/NFS/Readme.md) 
