@@ -59,5 +59,7 @@ $ sudo systemctl restart apache2
 
 ==> http://yourdomain.com 
 
+# Félicitations !... Vous avez réussi à installer APACHE 👏
+
 
 
